@@ -23,5 +23,5 @@ python3 main.py --name noisefreeresenet --learningrate 1e-4 --convolutions [128,
 #### Attention model
 ```
 cd src
-python3 main.py --name noisefreeresenet --learningrate 1e-4--epochs 500 --hiddenlayer [1024,1024,512] --model_type bAttnVGG --batch_size 128 --noise_level 0.01 --SGD TRUE 
+python3 main.py --name attentionnetwork --learningrate 1e-4--epochs 500 --hiddenlayer [1024,1024,512] --model_type bAttnVGG --batch_size 128 --noise_level 0.01 --SGD TRUE 
 ```
