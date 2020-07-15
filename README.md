@@ -1,5 +1,6 @@
 # Stellar label estimation using deep learning.
-
+This repository contains code to estimate stellar labels.
+The data-set is un-continuum normalised stellar spectra which comes in a 2D dataframe [28366,1,8,4096]
 
 ## Eksperiments
 ### Unsupervised learning models
