@@ -1,1 +1,2 @@
-# Stellarlabels
+# Stellar label estimation using deep learning.
+
