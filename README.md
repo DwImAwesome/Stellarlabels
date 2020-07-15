@@ -5,7 +5,7 @@ The data-set is un-continuum normalised stellar spectra which comes in a 2D data
 
 
 ## Eksperiments
-In order to run the code, unzip the noisefree_modelgrid.h5.zip
+In order to run the code, change name of datafile in dataloader.py
 ### Unsupervised learning models
 
 ```
